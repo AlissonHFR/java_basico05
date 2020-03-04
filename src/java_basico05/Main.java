@@ -15,13 +15,13 @@ public class Main {
 			switch(i) {
 			case 1: System.out.println("Primeira condição");
 			break;
-			case 2: System.out.println();
+			case 2: System.out.println("Não encontrou uma condição");
 			break;
-			case 3: System.out.println();
+			case 3: System.out.println("Não encontrou uma condição");
 			break;
-			case 4: System.out.println();
+			case 4: System.out.println("Segunda condição");
 			break;
-			case 4: System.out.println();
+			case 5: System.out.println("Não encontrou uma condição");
 			break;
 			
 			}
